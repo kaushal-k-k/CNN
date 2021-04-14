@@ -2,7 +2,7 @@
 # DL
 ## Final code file is named as # final_dl_assignment1
 '''3k & sonagara'''
-## report link : https://wandb.ai/sonagara/dl_a2eeeee/reports/Assignment-2--Vmlldzo1OTQ3OTA
+## report link : https://wandb.ai/sonagara/dl_a2eeeee/reports/Copy-of-sonagara-s-Assignment-2--Vmlldzo2MDgyNTE/edit
 
 ## set variables
 - img_size = single dimension of image
