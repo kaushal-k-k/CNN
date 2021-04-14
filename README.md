@@ -36,6 +36,9 @@ img = any single img with shape(img_shape,img_shape,3)
 model = trained model
 layer_no = default 1 , any conv layer no of model whose filter you need to visulaize
 
+## plot_guided_backprop() - for doing guided back propagation on any 10 neurons for the conv5 layer and plotting the images which excite them
+- all the parametrs are hancoded it can be changed inside the plot_guided_backprop() for doing guided back prop on any other layes
+
 ## load_pretrained_model(name,k = False,default_shape = False) - to load pretrianed model
 name = 'vgg16' , 'resnet50' , 'inception_v3' 
 - if need to add any new pretrined model update the last_conv, i_shape and import the required modules 
